@@ -1,4 +1,4 @@
-### Olá, Eu sou Arnaldo Costa 👋
+### Olá, eu sou Arnaldo Costa 👋
 
 <div align="center">
   <a href="https://github.com/arnaldo93">
